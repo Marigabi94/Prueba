@@ -7,5 +7,5 @@ Pequeña prueba realizada en el proceso de selección una empresa.
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
 
-## Delpoy
+## Demo
 [![Web](https://img.shields.io/badge/web-fibonacci-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fibonacci-90752.web.app)
